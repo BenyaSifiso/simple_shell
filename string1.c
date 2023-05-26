@@ -1,5 +1,3 @@
-string1.c
-
 #include "shell.h"
 
 /**
